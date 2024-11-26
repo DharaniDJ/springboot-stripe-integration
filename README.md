@@ -180,5 +180,3 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 ---
 
 Feel free to explore, modify, and integrate this project into your applications! 🚀
-
-For any questions or doubts, contact: [Your Email](mailto:your.email@example.com)
